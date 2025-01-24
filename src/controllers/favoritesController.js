@@ -1,5 +1,4 @@
 const axios = require('axios');
-
 let favorites = [];
 
 const getCharacters = async (req, res) => {
